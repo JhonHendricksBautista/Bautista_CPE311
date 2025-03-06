@@ -1,0 +1,59 @@
+Temparature,Humidity,Price(PHP),Soil Type,Crop Type
+26,52,100,Sandy,corn
+29,52,60,Loamy,sugarcane
+34,65,180,Black,cotton
+32,62,175,Red,tobacco
+28,54,70,Clayey,paddy
+26,52,130,Sandy,barley
+33,64,150,Loamy,wheat
+30,60,90,Sandy,millets
+29,58,160,Black,oil seeds
+27,54,130,Clayey,pulses
+26,52,140,Red,ground nuts
+15,70,100,Loamy,oats
+10,65,60,Sandy,rye
+27,50,90,Sandy Loam,millet
+28,55,150,Loamy,sorghum
+30,45,130,Sandy,pearl millet
+18,60,250,Loamy,buckwheat
+22,40,190,Clayey,chickpea
+20,45,150,Loamy,lentil
+25,55,180,Black,black gram
+26,50,160,Loamy,green gram
+29,55,100,Clayey,pigeon pea
+21,60,220,Loamy,kidney bean
+25,65,150,Clayey,soybean
+28,50,140,Sandy Loam,groundnut
+27,55,130,Loamy,sunflower
+22,40,125,Clayey,mustard
+30,50,100,Sandy Loam,sesame
+20,55,126,Loamy,linseed
+28,40,84,Sandy,castor
+26,45,115,Loamy,safflower
+30,75,180,Sandy,coconut
+28,85,155,Clayey,jute
+22,60,118,Loamy,hemp
+29,80,125,Loamy,potato
+27,85,150,Loamy,tomato
+20,65,100,Loamy,onion
+27,65,105,Sandy,garlic
+27,60,187,loamy,banana
+21,70,200,loamy,mango
+17,50,150,sandy,lettuce
+25,60,202,sandy,pumpkin
+25,70,230,sandy,okra
+27,45,150,loamy,chili
+28,55,145,loamy,basil
+29,45,160,sandy,rosemary
+27,80,180,sandy,cocoa
+13,55,230,sandy,radish
+15,98,250,sandy,beetroot
+14,80,150,loamy,turnip
+20,50,120,sandy,strawberry
+24,60,150,sandy,blueberry
+22,65,180,sandy,raspberry
+17,93,180,sandy,kiwi
+17,70,100,sandy,carrot
+17,95,180,clayey,broccoli
+27,65,230,sandy,cucumber
+28,50,150,sandy,lemon
